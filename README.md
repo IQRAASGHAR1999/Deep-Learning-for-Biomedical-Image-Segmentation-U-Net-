@@ -11,8 +11,6 @@ Implements U-Net for biomedical image segmentation. Trains on cell nuclei or lun
 │   ├── train.py               # Training loop
 │   ├── eval.py                # Evaluation/metrics
 │   └── data_loader.py         # Data utilities
-├── notebooks/
-│   └── visualization.ipynb    # For overlay plots and EDA
 ├── data/                      # Place downloaded datasets here
 ├── results/                   # Model checkpoints, segmentation outputs
 ├── requirements.txt
